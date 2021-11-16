@@ -1,2 +1,1 @@
-# ai-workshop
-AI Services Workshop
+# AI Services Workshop
