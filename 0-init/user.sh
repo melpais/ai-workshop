@@ -7,6 +7,7 @@ AWS_DEFAULT_REGION=ap-southeast-2
 
 create_user () {
   USER_NAME=demouser
+    # PASSWORD=`aws secretsmanager get-random-password --include-space --password-length 20 --require-each-included-type --query RandomPassword | tr -d '"'`
     PASSWORD=AmazonCognito1!
     echo 'Creating user for pool' $1 ' with username $USERNAME'
     aws cognito-idp admin-create-user \

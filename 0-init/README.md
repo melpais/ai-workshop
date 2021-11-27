@@ -19,9 +19,12 @@ Once you are logged in, you will run an initialization script that will create r
 - Once uploaded run the below commnd 
 > chmod +x user.sh ; ./user.sh
 
+</br> </br> 
+___
+</br> </br> </br> </br> </br> </br>  
 **Manual Option** 
 
-`If you are unable to execute the initialization script`, follow below steps
+`Only follow below steps if you were unable to execute above script.`
 - Navigate the [Cognito User Pools](https://ap-southeast-2.console.aws.amazon.com/cognito/users/?region=ap-southeast-2#/)
 - Open the user pool with name *ContentAnalysisUserPool-XXXXXXXX*
 - Under *General Serttings* > *Users and Groups* click on *Create User* button.
@@ -31,3 +34,4 @@ Once you are logged in, you will run an initialization script that will create r
 - Click on *Add to group*
 - Select the only group that ends with *Admin* </br> ![Add to Group](./images/add-to-group.png)
 - You should now be able to login to the content analysis UI.
+- Repeat above steps for remaining [Cognito User Pools](https://ap-southeast-2.console.aws.amazon.com/cognito/users/?region=ap-southeast-2#/)

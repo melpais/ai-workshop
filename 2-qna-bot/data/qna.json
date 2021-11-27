@@ -1,0 +1,259 @@
+﻿{
+  "qna": [
+    {
+      "qid": "ED.ES.002",
+      "a": "Yes. You must have an active AWS account with a valid payment method on file in order to join AWS EdStart.",
+      "alt": {
+        "markdown": "Yes. You must have an active AWS account with a valid payment method on file in order to join AWS EdStart. You can learn more about AWS accounts [here](https://aws.amazon.com/about-aws/)."
+      },
+      "type": "qna",
+      "q": [
+        "Do I need to be an AWS customer to join AWS EdStart?"
+      ]
+    },
+    {
+      "qid": "ED.ES.004",
+      "a": "To learn more about AWS EdStart Members, check out the Meet our Members page.",
+      "alt": {
+        "markdown": "To learn more about AWS EdStart Members, check out the [Meet our Members](https://aws.amazon.com/education/edstart/members/) page."
+      },
+      "type": "qna",
+      "q": [
+        "How can I learn more about AWS EdStart Members?"
+      ]
+    },
+    {
+      "qid": "ED.ES.003",
+      "a": "Visit our website to create your free account today.",
+      "alt": {
+        "markdown": "Visit [About AWS](https://aws.amazon.com/about-aws/) to create your free account today."
+      },
+      "type": "qna",
+      "q": [
+        "How do I set up an AWS account?"
+      ]
+    },
+    {
+      "qid": "ED.ES.005",
+      "a": "To become a part of the AWS EdStart Members Tier, you will need to complete the application form and apply to be accepted into the program. For more details, please visit the AWS EdStart Members Tier page.",
+      "alt": {
+        "markdown": "To become a part of the AWS EdStart Members Tier, you will need to complete the application form and apply to be accepted into the program. For more details, please visit the [AWS EdStart Members Tier](https://aws.amazon.com/education/edstart/application/) page."
+      },
+      "type": "qna",
+      "q": [
+        "How do I become an AWS EdStart Member?"
+      ]
+    },
+    {
+      "qid": "ED.ES.010",
+      "a": "AWS Promotional Credits awarded through the AWS EdStart Members Tier are merit based. Each company receives a different credit award based on their needs, previous allocations of AWS Promotional Credits, and outlined usage.",
+      "type": "qna",
+      "q": [
+        "How many AWS Promotional Credits can I expect to receive from the AWS EdStart Members Tier?"
+      ]
+    },
+    {
+      "qid": "ED.ES.009",
+      "a": "AWS Promotional Credits awarded through AWS EdStart are merit based. Each company receives a different credit award based on their needs, previous allocations of AWS Promotional Credits, and outlined usage.",
+      "type": "qna",
+      "q": [
+        "Once accepted into AWS EdStart Members Tier, where can I find my AWS Promotional Credits?"
+      ]
+    },
+    {
+      "qid": "ED.ES.007",
+      "a": "Applications are processed within 10-12 business days. You will receive a welcome email once you have been accepted into the AWS EdStart Members Tier.",
+      "type": "qna",
+      "q": [
+        "How long does it take to be accepted into the AWS EdStart Members Tier?"
+      ]
+    },
+    {
+      "qid": "ED.ES.006",
+      "a": "Once accepted into the AWS EdStart Members Tier, you can remain a Member for as long as you wish.",
+      "type": "qna",
+      "q": [
+        "How long can I stay in the AWS EdStart program?"
+      ]
+    },
+    {
+      "qid": "ED.ES.008",
+      "a": "Due to a high volume of applications, submitting an application does not guarantee your acceptance into the program.",
+      "type": "qna",
+      "q": [
+        "Are all applicants accepted into the program?"
+      ]
+    },
+    {
+      "qid": "ED.ES.026",
+      "a": "If you plan to use your AWS Promotional Credit towards services in the AWS China (Beijing) Region Operated by Sinnet or AWS China (Ningxia) Region Operated by NWCD, download your application form and apply with an AWS China account www.amazonaws.cn/edstart/. If you plan to use your AWS Promotional Credit towards services outside of the AWS China (Beijing) Region or AWS China (Ningxia) Region, download your application form and apply with a AWS global account aws.amazon.com/awsedstart. For a full list of services by region, check out our region table. To learn more about the regions, visit the AWS in China and AWS global infrastructure webpages.",
+      "alt": {
+        "markdown": "If you plan to use your AWS Promotional Credit towards services in the AWS China (Beijing) Region Operated by Sinnet or AWS China (Ningxia) Region Operated by NWCD, download your application form and apply with an AWS China account [www.amazonaws.cn/edstart/](https://www.amazonaws.cn/en/edstart/). If you plan to use your AWS Promotional Credit towards services outside of the AWS China (Beijing) Region or AWS China (Ningxia) Region, download your application form and apply with a AWS global account [aws.amazon.com/awsedstart](http://aws.amazon.com/awsedstart). For a full list of services by region, check out our [region table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/). To learn more about the regions, visit the [AWS in China](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/) and [AWS global infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/) webpages."
+      },
+      "type": "qna",
+      "q": [
+        "I live in China and noticed that there are two different application forms. What is the difference between the two?"
+      ]
+    },
+    {
+      "qid": "ED.ES.024",
+      "a": "Once accepted into AWS EdStart, you can remain an AWS EdStart Member for as long as you wish. If you wish to leave the program, you may do so at any time by emailing the team. Once we receive your email request, we will remove you from the program database and webpage. Please note that this removal process may take up to five business days.",
+      "alt": {
+        "markdown": "Once accepted into AWS EdStart, you can remain an AWS EdStart Member for as long as you wish. If you wish to leave the program, you may do so at any time by [emailing the team](mailto:awsedstart@amazon.com). Once we receive your email request, we will remove you from the program database and webpage. Please note that this removal process may take up to five business days."
+      },
+      "type": "qna",
+      "q": [
+        "What is the process for exiting the program?"
+      ]
+    },
+    {
+      "qid": "ED.ES.025",
+      "a": "We are in the process of expanding the program globally, but currently the program is only available to customers headquartered in the countries listed on the AWS Members Tier page. Please check back soon for updates.",
+      "alt": {
+        "markdown": "We are in the process of expanding the program globally, but currently the program is only available to customers headquartered in the countries listed on the [AWS Members Tier](https://aws.amazon.com/education/edstart/application/) page. Please check back soon for updates."
+      },
+      "type": "qna",
+      "q": [
+        "If my country is not listed on the application page, does that mean AWS EdStart is not available to me?"
+      ]
+    },
+    {
+      "qid": "ED.ES.027",
+      "a": "The AWS EdStart Innovators Tier is intended for the earliest stage EdTech startups. Participants in the AWS EdStart Innovators Tier, or \"AWS EdStart Innovators” as they are called, receive basic support to launch their companies. Once AWS EdStart Innovators have advanced their business and are working with customers, they can apply to become an AWS EdStart Member.",
+      "type": "qna",
+      "q": [
+        "What is the difference between being a “Member” and an “Innovator” of AWS EdStart?"
+      ]
+    },
+    {
+      "qid": "ED.ES.023",
+      "a": "No, once you are in the program, there are no requirements for remaining in the program. However, if you want to participate in marketing activities, such as being featured in blog posts, you must sign and return the [AWS Marketing Authorization Form](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-EdStart-Marketing-Authorization-and-Release-Form.pdf).",
+      "type": "qna",
+      "q": [
+        "Are there any requirements of AWS EdStart Members in the program?"
+      ]
+    },
+    {
+      "qid": "ED.ES.028",
+      "a": "AWS EdStart Innovators will have to go through the same application process as new applicants, and acceptance will be based on application criteria.",
+      "type": "qna",
+      "q": [
+        "Can I be both an AWS EdStart Innovator and an AWS EdStart Member?"
+      ]
+    },
+    {
+      "qid": "ED.ES.021",
+      "a": "AWS does not take any equity from AWS EdStart Members.",
+      "type": "qna",
+      "q": [
+        "Does AWS take any equity stake in AWS EdStart Members?"
+      ]
+    },
+    {
+      "qid": "ED.ES.020",
+      "a": "No, AWS EdStart is a complimentary offering.",
+      "type": "qna",
+      "q": [
+        "Is there a cost to apply for AWS EdStart or to become an AWS EdStart Member?"
+      ]
+    },
+    {
+      "qid": "ED.ES.022",
+      "a": "No, AWS EdStart is an ongoing program. You can apply at any time.",
+      "type": "qna",
+      "q": [
+        "Is there a deadline to apply for the program?"
+      ]
+    },
+    {
+      "qid": "ED.ES.001",
+      "a": "AWS EdStart is a program designed to provide your education technology startup with the resources you need to get started quickly and easily on AWS.",
+      "alt": {
+        "markdown": "AWS EdStart is a program designed to provide your education technology startup with the resources you need to get started quickly and easily on AWS. Learn more [AWS EdStart](https://aws.amazon.com/awsedstart/)."
+      },
+      "type": "qna",
+      "q": [
+        "What is AWS EdStart?",
+        "Can I know what is AWS EdStart?"
+      ]
+    },
+    {
+      "qid": "ED.ES.019",
+      "a": "To report an issue or error on the AWS EdStart page, or to get answers to additional questions, please contact us.",
+      "alt": {
+        "markdown": "To report an issue or error on the AWS EdStart page, or to get answers to additional questions, please [contact us](mailto:awsedstart@amazon.com)."
+      },
+      "type": "qna",
+      "q": [
+        "I want to report feedback or have a question that is not listed. Where do I go?"
+      ]
+    },
+    {
+      "qid": "ED.ES.014",
+      "a": "You can learn more about AWS Promotional Credits on the Redeem your AWS Promotional Credit page.",
+      "alt": {
+        "markdown": "You can learn more about AWS Promotional Credits on the [Redeem your AWS Promotional Credit](https://aws.amazon.com/awscredits/) page."
+      },
+      "type": "qna",
+      "q": [
+        "Where can I learn more about AWS Promotional Credits?"
+      ]
+    },
+    {
+      "qid": "ED.ES.016",
+      "a": "You can display the Powered By Amazon Web Services logo, as seen here, to let your customers know that your application is built on the same reliable, scalable infrastructure used to power Amazon.com’s global web properties. Visit the [AWS co-marketing tools](https://aws.amazon.com/co-marketing/) page for more details. Use of this logo and any AWS marks are subject to [AWS trademark guidelines](https://aws.amazon.com/trademark-guidelines/).",
+      "type": "qna",
+      "q": [
+        "As a Member of AWS EdStart Members Tier or AWS EdStart Innovators Tier, can I use the AWS logo on my website?"
+      ]
+    },
+    {
+      "qid": "ED.ES.015",
+      "a": "Applications are processed within approximately 10-12 business days. We make reasonable attempts to follow up with each applicant. However, in cases where the AWS account ID is invalid, or the email address provided is a personal address instead of a corporate email address, we reserve the right to remove your application from the queue and you may not receive a follow-up.",
+      "type": "qna",
+      "q": [
+        "Will we be notified if our company does not qualify for the AWS EdStart Members Tier?"
+      ]
+    },
+    {
+      "qid": "ED.ES.011",
+      "a": "Yes. AWS EdStart Promotional Credits will expire on the date indicated when you receive the applicable Promotional Credit code (or such other date designated by your AWS contracting entity). Failure to use AWS Promotional Credits before the expiration date will result in the forfeiture of AWS Promotional Credits. We reserve the right to cancel AWS Promotional Credits at any time. No refunds will be granted for any expired or cancelled AWS Promotional Credit.",
+      "type": "qna",
+      "q": [
+        "Do AWS Promotional Credits expire?"
+      ]
+    },
+    {
+      "qid": "ED.ES.013",
+      "a": "No. These credits are designed to be a short-term, finite tool for empowering your long-term success. Once these credits are fully utilized, or have expired, you will have the opportunity to benefit from the other resources AWS makes available for architecting your infrastructure and optimizing your costs.",
+      "type": "qna",
+      "q": [
+        "If I need more AWS Promotional Credits, can I get them from AWS EdStart?"
+      ]
+    },
+    {
+      "qid": "ED.ES.017",
+      "a": "Yes. You can display the AWS EdStart Member icon on your website to let your customers know that you are an AWS EdStart Member. Use of the icon is subject to [AWS Trademark Guidelines](https://aws.amazon.com/trademark-guidelines/).",
+      "type": "qna",
+      "q": [
+        "As a Member of AWS EdStart, can I use the AWS EdStart Member icon on my website?"
+      ]
+    },
+    {
+      "qid": "ED.ES.012",
+      "a": "No. AWS Promotional Credits will expire on the date indicated when you receive the applicable AWS Promotional Credits code (or such other date designated by your AWS contracting entity) and will not be extended.",
+      "type": "qna",
+      "q": [
+        "Can my AWS Promotional Credits be extended?"
+      ]
+    },
+    {
+      "qid": "ED.ES.018",
+      "a": "No. AWS is not a sponsor of any startup or other startup-enabling organization. AWS EdStart is not a sponsorship program.",
+      "type": "qna",
+      "q": [
+        "Can I mention AWS as the technology sponsor for my organization?"
+      ]
+    }
+  ]
+}
