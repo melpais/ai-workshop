@@ -18,7 +18,7 @@ This guide provides detailed instructions for the following tasks:
 - Integrate the solution with Amazon Connect to provide automation for your call center
 
 **AI Services used**
-- [Amazon Lex](https://aws.amazon.com/rekognition/)
+- [Amazon Lex](https://aws.amazon.com/lex/)
 - [Amazon Transcribe](https://aws.amazon.com/transcribe/)
 - [Amazon Translate](https://aws.amazon.com/translate/)
 - [Amazon Polly](https://aws.amazon.com/polly/)
