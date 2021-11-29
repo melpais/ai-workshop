@@ -6,9 +6,9 @@ The solution deploys an AWS CloudFormation template that supports three sources 
 This solution helps you identify the most dominant topics associated with your products, policies, events, and brands. Implementing this solution helps you react quickly to new growth opportunities, address negative brand associations, and deliver higher levels of customer satisfaction.
 
 **AI Services used**
-- [Amazon Rekognition](https://aws.amazon.com/textract/)
+- [Amazon Rekognition](https://aws.amazon.com/rekognition/)
 - [Amazon Comprehend](https://aws.amazon.com/comprehend/)
-- [Amazon Translate](https://aws.amazon.com/kendra/)
+- [Amazon Translate](https://aws.amazon.com/translate/)
 
 ## Steps
 ### Configure Quicksight
