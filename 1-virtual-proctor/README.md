@@ -54,3 +54,6 @@ Speak to your AWS Account Manager if you wish to discuss your use case further.
 - Blog - [Using the cloud to support remote proctoring and assessment](https://aws.amazon.com/blogs/publicsector/using-cloud-support-remote-proctoring-assessment/)
 - [Pre-recorded demo](https://www.youtube.com/watch?v=kKVLrslta6k)
 - [Source code](https://github.com/aws-samples/amazon-rekognition-virtual-proctor)
+
+### References
+- [WeShine Tech Equips Universities to Proctor Exams Remotely with Machine Learning on AWS](https://aws.amazon.com/solutions/case-studies/weshine/)

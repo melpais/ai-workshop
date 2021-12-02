@@ -24,7 +24,7 @@ Once you are logged in, you will run an initialization script that will create r
 Complete the steps within [0-init](./0-init/README.md) module.
 
 ## Solutions
-In this workshop, we will go through 6 solutions over 3 hours.
+In this workshop, we will go through 6 solutions.
 
 Lets get started!
 ### Virtual Proctor

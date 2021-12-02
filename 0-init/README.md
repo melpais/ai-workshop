@@ -14,11 +14,13 @@ Once you are logged in, you will run an initialization script that will create r
 ### Initialization
 **Script**
 - Open [Cloudshell](https://ap-southeast-2.console.aws.amazon.com/cloudshell/home?region=ap-southeast-2#)
-- On the right side, click open the *Actions* drop-down menu, </br> ![Actions](./images/cloudshell-actions.png)
-- Upload the [user.sh](./user.sh) file from this folder </br> ![Upload Script](./images/upload-script.png)
-- Once uploaded run the below commnd 
-> chmod +x user.sh ; ./user.sh
+- Once opened run the below commands
+``` 
+wget https://raw.githubusercontent.com/melpais/ai-workshop/main/0-init/user.sh 
+chmod +x user.sh ; ./user.sh
+```
 
+If the script is executed successfully, go back to the main [page](https://github.com/melpais/ai-workshop#virtual-proctor).
 </br> </br> 
 ___
 </br> </br> </br> </br> </br> </br>  

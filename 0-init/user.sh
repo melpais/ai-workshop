@@ -21,7 +21,7 @@ create_user () {
     aws cognito-idp admin-add-user-to-group --user-pool-id $POOL_ID --username $USER_NAME --group-name $GROUP_ID    
 }
 
-# Create 
+# Create users in each pool
 POOL_ID=`aws cognito-idp list-user-pools --max-results  2 --query 'UserPools[0].Id' | tr -d '"'`
 create_user $POOL_ID
 POOL_ID=`aws cognito-idp list-user-pools --max-results  2 --query 'UserPools[1].Id' | tr -d '"'`
