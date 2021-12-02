@@ -11,6 +11,13 @@ This solution helps you identify the most dominant topics associated with your p
 - [Amazon Translate](https://aws.amazon.com/translate/)
 
 ## Steps
+In the workshop, we will watch the [video](https://www.youtube.com/watch?v=HyamXJ7eBoM) for an immersive experience.
+
+We will then review the dashboards from an earlier deployment.
+
+___
+
+If you wish to explore further, feel free to deploy the solution by following below steps.
 ### Configure Quicksight
 - Open AWS Quicksight
 - Click on *Sign up for Quicksight*

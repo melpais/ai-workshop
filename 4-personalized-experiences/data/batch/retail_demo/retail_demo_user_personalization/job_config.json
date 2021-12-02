@@ -1,0 +1,153 @@
+{
+    "datasetGroup": {
+        "serviceConfig": {
+            "name": "retail_demo"
+        },
+        "workflowConfig": {
+            "schedules": {
+                "import": "cron(0 */6 * * ? *)"
+            }
+        }
+    },
+    "datasets": {
+        "users": {
+            "dataset": {
+                "serviceConfig": {
+                    "name": "retail_demo_users"
+                }
+            },
+            "schema": {
+                "serviceConfig": {
+                    "name": "retail_demo_users_schema",
+                    "schema": {
+                        "type": "record",
+                        "name": "users",
+                        "namespace": "com.amazonaws.personalize.schema",
+                        "fields": [
+                            {
+                                "name": "USER_ID",
+                                "type": "string"
+                            },
+                            {
+                                "name": "AGE",
+                                "type": "int"
+                            },
+                            {
+                                "name": "GENDER",
+                                "type": "string",
+                                "categorical": true
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "items": {
+            "dataset": {
+                "serviceConfig": {
+                    "name": "retail_demo_items"
+                }
+            },
+            "schema": {
+                "serviceConfig": {
+                    "name": "retail_demo_items_schema",
+                    "schema": {
+                        "type": "record",
+                        "name": "items",
+                        "namespace": "com.amazonaws.personalize.schema",
+                        "fields": [
+                            {
+                                "name": "ITEM_ID",
+                                "type": "string"
+                            },
+                            {
+                                "name": "CATEGORY",
+                                "type": "string",
+                                "categorical": true
+                            },
+                            {
+                                "name": "STYLE",
+                                "type": "string",
+                                "categorical": true
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "interactions": {
+            "dataset": {
+                "serviceConfig": {
+                    "name": "retail_demo_interactions"
+                }
+            },
+            "schema": {
+                "serviceConfig": {
+                    "name": "retail_demo_interactions_schema",
+                    "schema": {
+                        "type": "record",
+                        "name": "interactions",
+                        "namespace": "com.amazonaws.personalize.schema",
+                        "fields": [
+                            {
+                                "name": "USER_ID",
+                                "type": "string"
+                            },
+                            {
+                                "name": "ITEM_ID",
+                                "type": "string"
+                            },
+                            {
+                                "name": "EVENT_TYPE",
+                                "type": "string"
+                            },
+                            {
+                                "name": "TIMESTAMP",
+                                "type": "long"
+                            },
+                            {
+                                "name": "DISCOUNT",
+                                "type": "boolean"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "eventTracker": {
+        "serviceConfig": {
+            "name": "retail_demo_event_tracker"
+        }
+    },
+    "solutions": [
+        {
+            "serviceConfig": {
+                "name": "retail_demo_user_personalization",
+                "recipeArn": "arn:aws:personalize:::recipe/aws-user-personalization"
+            },
+            "workflowConfig": {
+                "schedules": {
+                    "full": "cron(30 0 * * ? *)",
+                    "update": "cron(0 * * * ? *)"
+                }
+            },
+            "campaigns": [
+                {
+                    "serviceConfig": {
+                        "name": "retail_demo_user_personalization_cpn",
+                        "minProvisionedTPS": 1
+                    }
+                }
+            ],
+            "batchInferenceJobs": [
+                {
+                    "serviceConfig": {},
+                    "workflowConfig": {
+                        "schedule": "cron(0 3 * * ? *)"
+                    }
+                }
+            ]
+        }
+    ]
+}
