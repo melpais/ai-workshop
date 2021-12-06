@@ -10,11 +10,27 @@ Using AWS artificial intelligence (AI) services, how to address business problem
 - Compliance: Redact information from documents
 - Workflow automation: Easily plugs into your existing upstream and downstream applications 
 
+## Solution overview
+
+The Document Understanding Solution overview link is here [Solution](https://aws.amazon.com/solutions/implementations/document-understanding-solution/)
+
+There are four main modules in the solution
+- Module 1: Document Uploading
+- Module 2: Document Processing
+- Module 3: Data Storage Layer
+- Module 4: User searching
+
+![4 Modules](./images/modules.png)
+
+## AI Services and Data flow in the solution
+
 **AI Services used**
-- [Amazon Kendra](https://aws.amazon.com/kendra/)
-- [Amazon Textract](https://aws.amazon.com/textract/)
-- [Amazon Comprehend](https://aws.amazon.com/comprehend/)
+- [Amazon Textract](https://aws.amazon.com/textract/): Extract the text from image/pdf documents.
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/): Understand the meaning of text and uncover valuable insights from text
 - [Amazon Comprehend - Medical](https://aws.amazon.com/comprehend/medical/)
+- [Amazon Kendra](https://aws.amazon.com/kendra/): Provide intelligent search service powered by machine learning (ML).
+
+![AI Services](./images/ai-services.png)
 
 ## Steps
 - Navigate to [Document Understanding Solution](https://d2l8l7ins1imlo.cloudfront.net/home) website.
