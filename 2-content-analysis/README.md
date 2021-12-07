@@ -42,3 +42,4 @@ Speak to your AWS Account Manager if you wish to discuss your use case further.
 - [Solution](https://aws.amazon.com/solutions/implementations/aws-content-analysis/)
 - [Source code](https://github.com/awslabs/aws-content-analysis)
 - [Video](https://www.youtube.com/watch?v=IPOepbCM__0)
+- Related solution - [Media2Cloud](https://aws.amazon.com/solutions/implementations/media2cloud/)

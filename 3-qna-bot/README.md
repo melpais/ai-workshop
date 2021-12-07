@@ -77,3 +77,4 @@ Speak to your AWS Account Manager if you wish to discuss your use case further.
 - Blog - [Deploy a Web UI for Your Chatbot](https://aws.amazon.com/blogs/machine-learning/deploy-a-web-ui-for-your-chatbot/)
 - [Solution](https://aws.amazon.com/solutions/implementations/aws-qnabot/)
 - [Workshop](https://catalog.us-east-1.prod.workshops.aws/v2/workshops/20c56f9e-9c0a-4174-a661-9f40d9f063ac/)
+- [Kendra Index Tutorial](https://aws.amazon.com/getting-started/hands-on/create-query-index-with-amazon-kendra/)

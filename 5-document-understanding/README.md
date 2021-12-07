@@ -34,8 +34,8 @@ There are four main modules in the solution
 
 ## Steps
 - Navigate to [Document Understanding Solution](https://d2l8l7ins1imlo.cloudfront.net/home) website.
-- Login with your registered *email address (replace @ with . )*  If your email is john.citizen@world.com the username is john.citizen.world.com
-- You can also use *demouser* for shared access.
+- You can use *demouser* for shared access.
+- For private access login with your registered *email address (replace @ with . )*  If your email is john.citizen@world.com the username is john.citizen.world.com
 - Run the following test cases
   - Search for contextual question and compre results between OpenSearch and Kendra.
   - Upload a handwritten document and search for content
@@ -54,3 +54,5 @@ The most common use-cases for [Amazon Kendra](https://aws.amazon.com/kendra/) an
 ## Resources
 - [Solution](https://aws.amazon.com/solutions/implementations/document-understanding-solution/)
 - [Source code](https://github.com/awslabs/document-understanding-solution)
+- [Tutorial - Extract text and structured data](https://aws.amazon.com/getting-started/hands-on/extract-text-with-amazon-textract/)
+- [Textract FAQs](https://aws.amazon.com/textract/faqs/)
