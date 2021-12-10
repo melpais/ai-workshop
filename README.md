@@ -11,14 +11,14 @@ Welcome to the AWS AI Services Workshop!
 - Chrome or FireFox browser
 
 ### Meeting IDs
-The main room - https://chime.aws/4421438528 will be used for presentation.
+The main room - https://chime.aws/9603731560 will be used for presentation.
 
-If you have any issues with the labs, or if you have questions, please navigate to the breakout room - https://chime.aws/7916630378
+If you have any issues with the labs, or if you have questions, please navigate to the breakout room - https://chime.aws/123
 
 Further break out rooms may be created if more people need help.
 
 ### Agenda
-![Agenda](./images/agenda-v1.png)
+![Agenda](./images/agenda-v2.png)
 
 ### Service Coverage
 ![Service Coverage](./images/service-coverage.png)
