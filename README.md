@@ -13,7 +13,7 @@ Welcome to the AWS AI Services Workshop!
 ### Meeting IDs
 The main room - https://chime.aws/9603731560 will be used for presentation.
 
-If you have any issues with the labs, or if you have questions, please navigate to the breakout room - https://chime.aws/123
+If you have any issues with the labs, or if you have questions, please navigate to the breakout room - https://chime.aws/4221414123
 
 Further break out rooms may be created if more people need help.
 
