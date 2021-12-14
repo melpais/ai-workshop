@@ -33,7 +33,7 @@ There are four main modules in the solution
 ![AI Services](./images/ai-services.png)
 
 ## Steps
-- Navigate to [Document Understanding Solution](https://d2l8l7ins1imlo.cloudfront.net/home) website.
+- Navigate to [Document Understanding Solution](https://d2zw9ez020q35j.cloudfront.net/) website.
 - You can use *demouser* for shared access.
 - For private access login with your registered *email address (replace @ with . )*  If your email is john.citizen@world.com the username is john.citizen.world.com
 - Run the following test cases
