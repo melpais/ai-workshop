@@ -10,6 +10,16 @@ Using AWS artificial intelligence (AI) services, how to address business problem
 - Compliance: Redact information from documents
 - Workflow automation: Easily plugs into your existing upstream and downstream applications 
 
+## Steps
+- Navigate to [Document Understanding Solution](https://d2zw9ez020q35j.cloudfront.net/) website.
+- You can use *demouser* for shared access.
+- For private access login with your registered *email address (replace @ with . )*  If your email is john.citizen@world.com the username is john.citizen.world.com
+- Run the following test cases
+  - Search for contextual question and compre results between OpenSearch and Kendra.
+  - Upload a handwritten document and search for content
+- sample documents
+  - [Queens letter](https://www.bbc.com/news/uk-england-wiltshire-36122985)
+
 ## Solution overview
 
 The Document Understanding Solution overview link is here [Solution](https://aws.amazon.com/solutions/implementations/document-understanding-solution/)
@@ -32,15 +42,6 @@ There are four main modules in the solution
 
 ![AI Services](./images/ai-services.png)
 
-## Steps
-- Navigate to [Document Understanding Solution](https://d2zw9ez020q35j.cloudfront.net/) website.
-- You can use *demouser* for shared access.
-- For private access login with your registered *email address (replace @ with . )*  If your email is john.citizen@world.com the username is john.citizen.world.com
-- Run the following test cases
-  - Search for contextual question and compre results between OpenSearch and Kendra.
-  - Upload a handwritten document and search for content
-- sample documents
-  - [Queens letter](https://www.bbc.com/news/uk-england-wiltshire-36122985)
 
 ## Next Steps
 The source code is available for your review and customizations. You can use the solution to build your own PoC.
