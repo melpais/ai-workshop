@@ -48,6 +48,8 @@ The source code is available for your review and customizations. You can use the
 The most common use-cases for [Amazon Kendra](https://aws.amazon.com/kendra/) and [Amazon Textract](https://aws.amazon.com/textract/) include:
 
 - Search and discovery: Search for information across multiple scanned documents, PDFs, and images
+- Education administration of classes, registrations etc.
+- Intelligent library artifacts search engine
 - Compliance: Redact information from documents
 - Workflow automation: Easily plugs into your existing upstream and downstream applications 
 
