@@ -38,11 +38,20 @@ This guide provides detailed instructions for the following tasks:
 - [Display rich text answers](https://docs.aws.amazon.com/solutions/latest/aws-qnabot/displaying-rich-text-answers.html)
 - Import attached [qna.json](./data/qna.json) using the guide [Importing and exporting chatbot answers](https://docs.aws.amazon.com/solutions/latest/aws-qnabot/importing-and-exporting-chatbot-answers.html)
 - Try [Automatic translation](https://docs.aws.amazon.com/solutions/latest/aws-qnabot/automatic-translation.html)
+  - Tools menu > Settings > Set **ENABLE_MULTI_LANGUAGE_SUPPORT** to **true**.
 - Test variations of the questions
 - Try recorded questions
 
 ### Amazon Kendra
 - [Integrate Amazon Kendra](https://docs.aws.amazon.com/solutions/latest/aws-qnabot/integrate-amazon-kendra.html)
+- Web page indexer
+  - Go to **Tools menu > Settings** and put values like below.
+  - ENABLE_WEB_INDEXER: true
+  - KENDRA_INDEXER_URLS: https://aws.amazon.com/education/
+  - KENDRA_WEB_PAGE_INDEX: Copy **Index ID** from Amazon Kendra > Indexes > Click Index > Index settings. 
+  - KENDRA_INDEXER_SCHEDULER: rate (1 day)
+- Using Kendra search as a fallback source of answers
+  - ALT_SEARCH_KENDRA_INDEXES: Copy **Index ID** from Amazon Kendra > Indexes > Click Index > Index settings. 
 
 ### Connect
 - [Connect AWS QnABot to an Amazon Connect call center](https://docs.aws.amazon.com/solutions/latest/aws-qnabot/connect-aws-qnabot-to-an-amazon-connect-call-center.html)
