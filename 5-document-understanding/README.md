@@ -13,7 +13,6 @@ Using AWS artificial intelligence (AI) services, how to address business problem
 ## Steps
 - Navigate to [Document Understanding Solution](https://d2zw9ez020q35j.cloudfront.net/) website.
 - You can use *demouser* for shared access.
-- For private access login with your registered *email address (replace @ with . )*  If your email is john.citizen@world.com the username is john.citizen.world.com
 - Run the following test cases
   - Search for contextual question and compre results between OpenSearch and Kendra.
   - Upload a handwritten document and search for content
